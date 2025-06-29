@@ -2,3 +2,5 @@ github.com/harundarat/golang-modules-hello-world v0.0.0-20250629040152-6c62d8b03
 github.com/harundarat/golang-modules-hello-world v0.0.0-20250629040152-6c62d8b03242/go.mod h1:qEM8j8zEnaWlcQrG/AZVeXhSdFdBxkw/H/Ysd2N6lPY=
 github.com/harundarat/golang-modules-hello-world v1.5.0 h1:1qZcDusBH8wyTs48R9O/84ZVMAnSF7sOwHPw5CIZs6c=
 github.com/harundarat/golang-modules-hello-world v1.5.0/go.mod h1:qEM8j8zEnaWlcQrG/AZVeXhSdFdBxkw/H/Ysd2N6lPY=
+github.com/harundarat/golang-modules-hello-world/v2 v2.0.0 h1:P5p2tAol3Y352zLwhs7eQE7DCbZJnV8MHoe6i0kfveA=
+github.com/harundarat/golang-modules-hello-world/v2 v2.0.0/go.mod h1:2VDHKo9+mNj+IaEeqqPogAoV4XDP/IiiEtVHvK9oxWY=
